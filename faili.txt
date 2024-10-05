@@ -1,0 +1,12 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 4E74-FE73
+
+ Directory of C:\Users\Ainoo\OneDrive\Documents\git-kurssi\hello-git-course
+
+10/05/2024  05:45 PM    <DIR>          .
+10/05/2024  05:44 PM    <DIR>          ..
+10/05/2024  05:47 PM                 0 faili.txt
+10/05/2024  05:44 PM                21 hello_world.py
+10/05/2024  05:44 PM                18 readme.ME
+               3 File(s)             39 bytes
+               2 Dir(s)  448,945,033,216 bytes free
